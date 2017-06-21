@@ -1,4 +1,4 @@
-#Example Website Drive for FriendUP Platform#
+# Example Website Drive for FriendUP Platform #
 
 A really quick implementation of a Website Drive for the [FriendUP](https://friendup.cloud/) Platform taken from the Developer’s Manual Volume 1 “Draft”, Rev. 2.
 
